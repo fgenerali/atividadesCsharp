@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Calculadora\FaixaEtaria\bin\Debug\FaixaEtaria.exe.config
+C:\Users\Usuario\source\repos\Calculadora\FaixaEtaria\bin\Debug\FaixaEtaria.exe
+C:\Users\Usuario\source\repos\Calculadora\FaixaEtaria\bin\Debug\FaixaEtaria.pdb
+C:\Users\Usuario\source\repos\Calculadora\FaixaEtaria\obj\Debug\FaixaEtaria.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Calculadora\FaixaEtaria\obj\Debug\FaixaEtaria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Calculadora\FaixaEtaria\obj\Debug\FaixaEtaria.exe
+C:\Users\Usuario\source\repos\Calculadora\FaixaEtaria\obj\Debug\FaixaEtaria.pdb
